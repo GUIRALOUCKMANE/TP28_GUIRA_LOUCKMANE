@@ -24,7 +24,11 @@
 <body>
    <?php include ("connection.php") ?>
    <?php include ("menu.php") ?>
-   <section class="loo">
+   
+   
+      
+    </header>
+    <section class="loo"> 
       <br>
       <div>
          <img src="region.jpg" alt="" class="a">
@@ -53,7 +57,7 @@
 
 
 
-   </section>
+   </section> 
    <section>
       
       <div class="grid-container">

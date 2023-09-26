@@ -77,6 +77,33 @@ nav .fa{
     
     
 }
+#intro-example{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(faso.png);
+    height: 100vh;
+}
+.lm{
+    width: 350px;
+    height: 350px;
+}
+.kkk{
+    display: flex;
+    justify-content: space-around;
+}
+.vi{
+    font-size: x-large;
+    color: darkgreen;
+}
+.btm{
+    margin-left: 70px;
+    background-color: chocolate;
+    border-radius: 10px;
+    padding: 20px;
+}
+.jjn{
+    font-size: x-large;
+}
 
 
 .grid-container {
